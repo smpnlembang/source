@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - blog</title>
+        <link>http://smp1lembang.sch.id/posts/</link>
+        <description>All Posts | blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Oct 2021 17:08:34 &#43;0800</lastBuildDate><atom:link href="http://smp1lembang.sch.id/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Pertama</title>
+    <link>http://smp1lembang.sch.id/posts/first_post/</link>
+    <pubDate>Thu, 21 Oct 2021 17:08:34 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://smp1lembang.sch.id/posts/first_post/</guid>
+    <description><![CDATA[ini konten pertama]]></description>
+</item></channel>
+</rss>
